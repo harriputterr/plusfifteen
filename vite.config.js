@@ -13,4 +13,10 @@ export default defineConfig({
   build: { 
     sourcemap: true,
   },
+  // server: {
+  //   https: {
+  //     key: './httpsplus15-privateKey.key',
+  //     cert: './httpsplus15.crt',
+  //   }
+  // }
 })
